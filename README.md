@@ -21,7 +21,7 @@ This is a simple implementation of the classic Rock Paper Scissors game in Pytho
 
 ## How to Play:
 - Clone or download the repository.
-- Execute the Python script (`rock_paper_scissors.py`) in your preferred Python environment.
+- Execute the Python script (`rockpaperscissorsgame.py`) in your preferred Python environment.
 - Follow the prompts to input your choice and see the game result.
 - Enjoy playing the classic game of Rock Paper Scissors!
 
