@@ -14,7 +14,7 @@ This is a simple implementation of the classic Rock Paper Scissors game in Pytho
 - Option to play again after each round.
 
 ## Instructions:
-1. Run the script in a Python environment.
+1. Run the script in Python environment.
 2. Enter your choice (rock, paper, or scissors) when prompted.
 3. See the outcome of the game.
 4. Choose whether to play again or exit.
